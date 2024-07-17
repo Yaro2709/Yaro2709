@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&width=435&lines=My+projects+and+their+tech)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&width=435&lines=My+projects+and+their+tech)
 - Projects related to Ansys:
     - [AnsysAPDL-SCRtest](https://github.com/Yaro2709/AnsysAPDL-SCRtest)
     - [AnsysAPDLexamples](https://github.com/Yaro2709/AnsysAPDLexamples)
@@ -22,5 +22,7 @@
     - [Fastest-PHP-templating-engine](https://github.com/Yaro2709/Fastest-PHP-templating-engine)
   
     Technologies: `php` `Blade` `Bladeone` `Latte` `Mustache` `Plates` `Smarty` `Twig`  
+- Technical projects
+    - [Icons-Tech](https://github.com/Yaro2709/Icons-Tech)
 
-
+    Technologies: `svg`  
