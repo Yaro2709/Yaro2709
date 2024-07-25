@@ -3,14 +3,14 @@
   - [LaravelReactTs-app-template](https://github.com/Yaro2709/LaravelReactTs-app-template)
   - [LaravelReactJs-app-template](https://github.com/Yaro2709/LaravelReactJs-app-template)
 
-  Technologies: `html` `apdl` `ts` `js` `css` `scss` `nodejs` `webpack` `Laravel`
+  Technologies: `html` `ts` `js` `css` `scss` `nodejs` `npm` `vite` `Laravel`
 
 - Projects related to Ansys:
     - [AnsysAPDL-SCRtest](https://github.com/Yaro2709/AnsysAPDL-SCRtest)
     - [AnsysAPDLexamples](https://github.com/Yaro2709/AnsysAPDLexamples)
     - [AnsysAPDLmac](https://github.com/Yaro2709/AnsysAPDLmac)
 
-  Technologies: `html` `apdl` `ts` `js` `css` `scss` `nodejs` `webpack` `react` `npm` `storybook` `jest` `eslint` `loki` `live-server`, `Bootstrap-react`
+  Technologies: `html` `apdl` `ts` `js` `css` `scss` `nodejs` `npm` `webpack` `react` `storybook` `jest` `eslint` `loki` `live-server`, `Bootstrap-react`
 - Projects related to browser-based web games:
     - [New-Star](https://github.com/Yaro2709/New-Star)
     - [2Moons](https://github.com/Yaro2709/2Moons)
@@ -30,5 +30,6 @@
     Technologies: `php` `Blade` `Bladeone` `Latte` `Mustache` `Plates` `Smarty` `Twig`  
 - Technical projects
     - [Icons-Tech](https://github.com/Yaro2709/Icons-Tech)
+    - [PHP-TS](https://github.com/Yaro2709/PHP-TS)
 
-    Technologies: `svg`  
+    Technologies: `ts` `php` `js` `svg` `nodejs` `npm` `jest` `eslint`
