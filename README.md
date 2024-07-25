@@ -3,7 +3,7 @@
   - [LaravelReactTs-app-template](https://github.com/Yaro2709/LaravelReactTs-app-template)
   - [LaravelReactJs-app-template](https://github.com/Yaro2709/LaravelReactJs-app-template)
 
-  Technologies: `html` `ts` `js` `css` `scss` `nodejs` `npm` `vite` `Laravel`
+  Technologies: `html` `ts` `js` `css` `scss` `sql` `nodejs` `npm` `Vite` `Laravel` `Sqlite`
 
 - Projects related to Ansys:
     - [AnsysAPDL-SCRtest](https://github.com/Yaro2709/AnsysAPDL-SCRtest)
