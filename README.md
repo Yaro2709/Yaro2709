@@ -29,7 +29,8 @@
   
     Technologies: `php` `Blade` `Bladeone` `Latte` `Mustache` `Plates` `Smarty` `Twig`  
 - Technical projects
+	- [PHP-TS](https://github.com/Yaro2709/PHP-TS)
+	- [Obsidian-Snippets](https://github.com/Yaro2709/Obsidian-Snippets)
     - [Icons-Tech](https://github.com/Yaro2709/Icons-Tech)
-    - [PHP-TS](https://github.com/Yaro2709/PHP-TS)
 
-    Technologies: `ts` `php` `js` `svg` `nodejs` `npm` `jest` `eslint`
+    Technologies: `ts` `php` `js` `css` `markdown` `svg` `nodejs` `npm` `jest` `eslint`
