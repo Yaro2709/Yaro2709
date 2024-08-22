@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&width=435&lines=My+projects+and+their+tech)
 - Laravel and React:
   - Laravel@React: [LaravelReactJs-app-management](https://github.com/Yaro2709/LaravelReactJs-app-management), [LaravelReactTs-app-template](https://github.com/Yaro2709/LaravelReactTs-app-template), [LaravelReactJs-app-template](https://github.com/Yaro2709/LaravelReactJs-app-template)
-  - Laravel: [LaravelBagisto-app-store](https://github.com/Yaro2709/LaravelBagisto-app-store)
+  - Laravel: [LaravelBagisto-app-store](https://github.com/Yaro2709/LaravelBagisto-app-store), [Laravel-app-blog](https://github.com/Yaro2709/Laravel-app-blog)
   - React: [AnsysAPDL-SCRtest](https://github.com/Yaro2709/AnsysAPDL-SCRtest), [ReactJs-app-realTime](https://github.com/Yaro2709/ReactJs-app-realTime), [ReactTs-app-yapBootstrap](https://github.com/Yaro2709/ReactTs-app-yapBootstrap), [ReactJs-app-mdRead](https://github.com/Yaro2709/ReactJs-app-mdRead)
 
   Language: `html` `ts` `js` `css` `scss` `sql`
